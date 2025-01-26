@@ -1,0 +1,2 @@
+(this["webpackJsonpfreedeck-configurator"]=this["webpackJsonpfreedeck-configurator"]||[]).push([[6],{590:function(n,r,t){"use strict";t.r(r);t(2),t(11),t(50);var e=t(167);t.d(r,"Child",(function(){return e.c})),t.d(r,"Command",(function(){return e.a})),t.d(r,"EventEmitter",(function(){return e.b})),t.d(r,"open",(function(){return e.d}))}}]);
+//# sourceMappingURL=6.f856fa7d.chunk.js.map
